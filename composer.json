@@ -1,0 +1,7 @@
+{
+    "require": {
+        "illuminate/validation": "^11.34",
+        "illuminate/support": "^11.34",
+        "illuminate/container": "^11.34"
+    }
+}
